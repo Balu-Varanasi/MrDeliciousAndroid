@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mr.Delicious</string>
+    <string name="restaurant_name">Mr. Delicious Snack Bar</string>
+    <string name="restaurant_title">Mr.Delicious</string>
+    <string name="description">Mr. Delicious Snack Bar is #1 for DELICIOUS bajan food and drinks! Here you can find the best fishcakes, flying fish cutters and rum punch in Barbados and many other top local cuisine. For over 35 years in Mumbai.</string>
+    <string name="phone_number">9010550044</string>
+    <string name="address">Powai Vihar Complex, Powai, Mumbai. 400076</string>
+    <string name="icon_address">place</string>
+    <string name="icon_phone">contact number</string>
+</resources>
